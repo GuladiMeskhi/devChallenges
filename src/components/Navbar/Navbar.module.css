@@ -1,0 +1,16 @@
+.primaryNavbar{
+    display:flex;
+    max-width:608px;
+    width:100%;
+    border-bottom:1px solid #bdbdbd;
+    justify-content: space-evenly;
+    height:30px;
+}
+
+
+.primaryNavbar a {
+    text-decoration: none;
+    font-weight: 600;
+    color: #333;
+}
+
