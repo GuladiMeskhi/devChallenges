@@ -8,5 +8,6 @@ Create a todo app following given designs. Use Front-end libraries like React or
 - **User story**: (optional): Store the data in local storage that when I refresh the page I can still see my progress
 
 -------------------------
-Challenge link : https://devchallenges.io/challenges/hH6PbOHBdPm6otzw2De5
+Challenge link : https://devchallenges.io/challenges/hH6PbOHBdPm6otzw2De5 
+
 View demo : https://preeminent-rugelach-c268d6.netlify.app/
